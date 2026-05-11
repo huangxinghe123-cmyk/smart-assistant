@@ -1,0 +1,13 @@
+2026-05-10 22:11:51,130 [INFO] shuzhi: 密码已设置
+2026-05-10 22:11:56,567 [INFO] shuzhi: 登录成功
+Traceback (most recent call last):
+  File "main.py", line 174, in _show_dashboard
+    ('设置', SettingsPage(login_screen=self.login_screen)),
+             ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: SettingsPage.__init__() got an unexpected keyword argument 'login_screen'
+2026-05-10 22:12:01,907 [INFO] shuzhi: 登录成功
+Traceback (most recent call last):
+  File "main.py", line 174, in _show_dashboard
+    ('设置', SettingsPage(login_screen=self.login_screen)),
+             ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: SettingsPage.__init__() got an unexpected keyword argument 'login_screen'
