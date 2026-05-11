@@ -1,0 +1,33 @@
+{
+  "school": {
+    "name": "长沙民政职业技术学院",
+    "auth_url": "https://authserver.csmzxy.edu.cn/authserver/login",
+    "e_hall": "https://ehall.csmzxy.edu.cn/new/index.html",
+    "jwxt": "https://jwxt.csmzxy.edu.cn",
+    "schedule_page": "https://jwxt.csmzxy.edu.cn/jwglxt/kbcx/xskbcx_cxXskbcxIndex.html?gnmkdm=N253508&layout=default",
+    "login_service": "https://authserver.csmzxy.edu.cn/authserver/login?service=https%3A%2F%2Fehall.csmzxy.edu.cn%2Flogin%3Fservice%3Dhttps%3A%2F%2Fehall.csmzxy.edu.cn%2Fnew%2Findex.html"
+  },
+  "api": {
+    "schedule_mobile": "https://jwxt.csmzxy.edu.cn/jwglxt/kbcx/xskbcxMobile_cxXsgrkb.html",
+    "schedule_web": "https://jwxt.csmzxy.edu.cn/jwglxt/kbcx/xskbcx_cxRjc.html",
+    "schedule_rsd": "https://jwxt.csmzxy.edu.cn/jwglxt/kbcx/xskbcx_cxRsd.html"
+  },
+  "semester": {
+    "xnm": "2025",
+    "xqm": "12",
+    "weeks": 20
+  },
+  "edge_paths": [
+    "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+    "C:\\Program Files\\Microsoft\\Edge\\Application\\msedge.exe"
+  ],
+  "cdp_port": 9222,
+  "app": {
+    "min_window_width": 1100,
+    "min_window_height": 720,
+    "default_zoom": 100,
+    "zoom_min": 50,
+    "zoom_max": 200,
+    "zoom_step": 10
+  }
+}
