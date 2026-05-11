@@ -1,0 +1,6 @@
+{
+  "version": "1.0.0",
+  "update_url": "https://github.com/huangxinglin/xiaoxing-assistant/releases/latest",
+  "check_url": "https://raw.githubusercontent.com/huangxinglin/xiaoxing-assistant/main/version.json",
+  "changelog": "v1.0.0 全新趣味功能\n- 修复课表DOM提取（列表视图）\n- 新增亲戚称呼计算器\n- 新增年龄计算器（生肖星座）\n- 新增井字棋对战AI\n- 新增猜数字游戏\n- 优化仪表盘布局"
+}
